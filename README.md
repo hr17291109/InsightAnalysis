@@ -1,4 +1,4 @@
-# MUTC
+# InsightAnalysis
 
 火星の探査機InSightにおける火星の一日をもとにした疑似的な暦の作り方
 
