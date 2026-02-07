@@ -29,6 +29,7 @@
 - **発表学会**: 日本地球惑星科学連合2024年大会 (JpGU 2024)
 - **発表者**: 新田 悠翔 (Haruka Nitta), et al.
 - **セッション**: [P-PS06] Mars and martian moons
+- **リンク**: (https://confit.atlas.jp/guide/event/jpgu2024/subject/PCG21-P07/detail?lang=ja)
 
 ## 開発環境
 - Python 3.x
